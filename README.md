@@ -5,6 +5,9 @@ app.ldnld.apple.com
 gdmf.apple.com
 ppg.app.com
 #HOST BY : AVTA
+liveplay.myqcloud.com
+cdp.cloud.unity3d.com
+config.uca.cloud.unity3d.com
 127.0.0.1 app-measurement.com
 172.217.194.100 app-measurement.com
 172.217.194.101 app-measurement.com
