@@ -94,4 +94,24 @@ a1991.dscd.akamai.net cdn.vn.garenanow.com
 03.205.155.76 dlied1.qq.com
 ovsdown-update.qq.com.tegsea.tc.qq.com dlied1.qq.com
 404591.d1.download.ettdnsv.com dlied1.qq.com
+-------------------------------------------
+127.0.0.1 speed.kg.garena.vn
+45.119.243.16 speed.kg.garena.vn
+45.119.243.26 speed.kg.garena.vn
+45.119.241.230 speed.kg.garena.vn
+---------------------------------
+127.0.0.1 cloud2.gsdk.proximabeta.com
+49.51.129.54 cloud2.gsdk.proximabeta.com
+49.51.130.93 cloud2.gsdk.proximabeta.com
+----------------------------------------
+127.0.0.1 platform-lookaside.fbsbx.com
+69.171.250.13 platform-lookaside.fbsbx.com
+scontent.xx.fbcdn.net platform-lookaside.fbsbx.com
+--------------------------------------------------
+127.0.0.1 f.gxx.garenanow.com
+122.11.128.166 f.gxx.garenanow.com
+122.11.128.167 f.gxx.garenanow.com
+----------------------------------
+127.0.0.1 kg.midas.garena.vn
+45.119.241.222 kg.midas.garena.vn
 
