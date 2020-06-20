@@ -57,6 +57,13 @@ ppg.app.com
 203.205.239.218 oth.eve.mdt.qq.com
 203.205.239.248 oth.eve.mdt.qq.com
 ----------------------------------
+127.0.0.1 oth.str.mdt.qq.com
+183.36.108.26 oth.str.mdt.qq.com
+183.36.108.31 oth.str.mdt.qq.com
+183.36.108.32 oth.str.mdt.qq.com
+183.57.48.33 oth.str.mdt.qq.com
+game.str.mdt.qq.com oth.str.mdt.qq.com
+----------------------------------
 127.0.0.1 logs.papertrailapp.com
 169.46.82.162 logs.papertrailapp.com
 169.46.82.163 logs.papertrailapp.com
@@ -121,3 +128,18 @@ scontent.xx.fbcdn.net platform-lookaside.fbsbx.com
 ---------------------------------------------------------------------------------
 127.0.0.1 ios.bugly.qq.com
 0.0.0.0 ios.bugly.qq.com
+------------------------
+127.0.0.1 speed.ino.qq.com
+203.205.254.104 speed.ino.qq.com
+-------------------------------
+127.0.0.1 tvnotice.kg.garena.vn
+0.0.0.0 tvnotice.kg.garena.vn
+----------------------------
+127.0.0.1 control.mna.qq.comidcconfig.gcloud.qq.com
+---------------------------------
+127.0.0.1 dir.4.1945015797.kgvn.gcloud.garena.vn
+45.119.241.238 dir.4.1945015797.kgvn.gcloud.garena.vn
+----------------------------------------------------
+127.0.0.1 idcconfig.gcloud.qq.com
+203.205.219.228 idcconfig.gcloud.qq.com
+idcconfig.gcloud.wechatos.net idcconfig.gcloud.qq.com
