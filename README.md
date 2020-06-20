@@ -114,4 +114,10 @@ scontent.xx.fbcdn.net platform-lookaside.fbsbx.com
 ----------------------------------
 127.0.0.1 kg.midas.garena.vn
 45.119.241.222 kg.midas.garena.vn
-
+---------------------------------
+127.0.0.1 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+54.169.48.105 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+13.228.213.111 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+---------------------------------------------------------------------------------
+127.0.0.1 ios.bugly.qq.com
+0.0.0.0 ios.bugly.qq.com
