@@ -57,11 +57,11 @@ ppg.app.com
 203.205.239.218 oth.eve.mdt.qq.com
 203.205.239.248 oth.eve.mdt.qq.com
 ----------------------------------
-127.0.0.1 iogs.papertrailapp.com
-169.46.82.162 iogs.papertrailapp.com
-169.46.82.163 iogs.papertrailapp.com
-169.46.82.164 iogs.papertrailapp.com
-169.46.82.165 iogs.papertrailapp.com
+127.0.0.1 logs.papertrailapp.com
+169.46.82.162 logs.papertrailapp.com
+169.46.82.163 logs.papertrailapp.com
+169.46.82.164 logs.papertrailapp.com
+169.46.82.165 logs.papertrailapp.com
 -----------------------------------
 127.0.0.1 bugly.qq.com
 203.205.179.230 bugly.qq.com
