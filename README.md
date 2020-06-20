@@ -69,3 +69,29 @@ ppg.app.com
 ----------------------------
 127.0.0.1 sparta.qb.mig.tencent-cloud.net
 sparta.qb.mig.tencent-cloud.net bugly.qq.com
+--------------------------------------------
+127.0.0.1 cdn.vn.garenanow.com
+cdn.vn.garenanow.com.akamaized.net cdn.vn.garenanow.com
+a1991.dscd.akamai.net cdn.vn.garenanow.com
+23.59.168.168 cdn.vn.garenanow.com
+23.59.168.209 cdn.vn.garenanow.com
+----------------------------------
+127.0.0.1 c.tdm.qq.com
+210.22.247.105 c.tdm.qq.com
+210.22.247.141 c.tdm.qq.com
+210.22.247.194 c.tdm.qq.com
+---------------------------
+127.0.0.1 pingma.qq.com
+0.0.0.0 pingma.qq.com
+---------------------
+127.0.0.1 dlied1.qq.com
+150.109.91.57 dlied1.qq.com
+150.109.91.100 dlied1.qq.com
+150.109.90.24 dlied1.qq.com
+203.205.155.69 dlied1.qq.com
+03.205.155.69 dlied1.qq.com
+03.205.155.72 dlied1.qq.com
+03.205.155.76 dlied1.qq.com
+ovsdown-update.qq.com.tegsea.tc.qq.com dlied1.qq.com
+404591.d1.download.ettdnsv.com dlied1.qq.com
+
