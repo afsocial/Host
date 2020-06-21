@@ -7,12 +7,10 @@
 127.0.0.1	localhost
 255.255.255.255	broadcasthost
 ::1             localhost
-
 127.0.0.1 localhost
 ::1 localhost 127.0.0.1 pay.igamecj.com
 127.0.0.1       localhost
 ::1             ip6-localhost
-
 127.0.0.1  T4 googleads.g.doubleclick.net/443 ?3
 127.0.0.1  T4 gameguardian.net/80
 128.0.0.1 www.dingd.cn
@@ -1834,8 +1832,7 @@
 127.0.0.1  ig-us-sdkapi.igamecj.com
 127.0.0.1  oth.eve.mdt.qq.com:8080
 127.0.0.1  ig-us-notice.igamecj.com
- 127.0.0.1   tencentgames.helpshift.com
- 
+127.0.0.1   tencentgames.helpshift.com
 128.0.0.1       localhost::1             ip6-localhost
 128.0.0.1 www.dingd.cn
 128.0.0.1 api.dingd.cn
@@ -1862,7 +1859,6 @@
 128.0.0.1 oth.eve.mdt.qq.com
 128.0.0.1 android.bugly.qq.com
 128.0.0.1 pingma.qq.com
-
 127.0.0.1  dlied1.tcdn.qq.com
 127.0.0.1  dlied2.tcdn.qq.com
 127.0.0.1  dlied3.tcdn.qq.com
@@ -2050,249 +2046,127 @@
 127.0.0.1 pay.igamecj.com
 127.0.0.1 app.adjust.com
 127.0.0.1 hk.api.unipay.qq.com
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1 pingma.qq.com
-
 127.0.0.1 szmg.qq.com
-
 127.0.0.1 49.51.42.152
-
 127.0.0.1 saping.igamecj.com
-
 127.0.0.1 naping.igamecj.com
-
 127.0.0.1 euping.igamecj.com
-
 127.0.0.1 hkping.igamecj.com
-
 127.0.0.1 krping.igamecj.com
-
 127.0.0.1 qos.hk.gcloudcs.com
-
 127.0.0.1 oth.eve.mdt.qq.com
-
 127.0.0.1 lobby.igamecj.com
-
 127.0.0.1 ig-us-notice.igamecj.com
-
 127.0.0.1 cs.mbgame.gamesafe.qq.com
-
 127.0.0.1 idc.receiver.tdm.qq.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 apse.s.ludashi.com
-
 127.0.0.1 gameguardian.net
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 oth.update.mdt.qq.com:8080
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 android.bugly.qq.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 app-measurement.com
-
 127.0.0.1 app-measurement.com
-
 127.0.0.1 app-measurement.com
-
 127.0.0.1 cdn.wetest.qq.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 hkconfig.gcloud.qq.com
-
 127.0.0.1 app-measurement.com
-
 127.0.0.1 cloud.gsdk.proximabeta.com:18081
-
 127.0.0.1 vmp.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied2.qq.com
-
 127.0.0.1 ig-us-notice.igamecj.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied2.qq.com
-
 127.0.0.1 dlied3.qq.com
-
 127.0.0.1 dlied4.qq.com
-
 127.0.0.1 dlied5.qq.com
-
 127.0.0.1 dlied6.qq.com
-
 127.0.0.1 dlied7.qq.com
-
 127.0.0.1 dlied8.qq.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 203.205.158.48
-
 127.0.0.1 ig-us-notice.igamecj.com
-
 127.0.0.1 ig-us-notice.igamecj.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 file-igamecj.akamaized.net
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 182.254.116.117
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 pay.igamecj.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 hk.api.unipay.qq.com
-
 127.0.0.1 hk.api.unipay.qq.com
-
 127.0.0.1 hk.api.unipay.qq.com
-
 127.0.0.1 szmg.qq.com
-
 127.0.0.1 pay.igamecj.com
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.str.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 ig-us-notice.igamecj.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 128.0.0.1       localhost::1             ip6-localhost
-
 128.0.0.1 www.dingd.cn
-
 128.0.0.1 api.dingd.cn
-
 128.0.0.1 dlied1.qq.com
-
 128.0.0.1 dlied2.qq.com
-
 128.0.0.1 dlied3.qq.com
-
 128.0.0.1 dlied4.qq.com
-
 128.0.0.1 dlied5.qq.com
-
 128.0.0.1 dlied6.qq.com
-
 128.0.0.1 dlied1.tcdn.qq.com
-
 128.0.0.1 dlied1.tc.qq.com
-
 128.0.0.1 dlied2.tcdn.qq.com
-
 128.0.0.1 dlied2.tc.qq.com
-
 128.0.0.1 dlied3.tcdn.qq.com
-
 128.0.0.1 dlied3.tc.qq.com
-
 128.0.0.1 dlied4.tcdn.qq.com
-
 128.0.0.1 dlied4.tc.qq.com
-
 128.0.0.1 dlied5.tcdn.qq.com
-
 128.0.0.1 dlied5.tc.qq.com
-
 128.0.0.1 dlied6.tcdn.qq.com
-
 128.0.0.1 dlied6.tc.qq.com
-
 128.0.0.1 appsupport.qq.com
-
 128.0.0.1 commdata.v.qq.com
-
 128.0.0.1 oth.eve.mdt.qq.com
-
 128.0.0.1 android.bugly.qq.com
-
 128.0.0.1 pingma.qq.com
 127.0.0.1  gameguardian.net
 127.0.0.1  apse.s.ludashi.com
@@ -2505,8 +2379,7 @@
 127.0.0.1  oth.eve.mdt.qq.com:8080
 127.0.0.1  ig-us-notice.igamecj.com
  127.0.0.1   tencentgames.helpshift.com
- 
-128.0.0.1       localhost::1             ip6-localhost
+ 128.0.0.1       localhost::1             ip6-localhost
 128.0.0.1 www.dingd.cn
 128.0.0.1 api.dingd.cn
 128.0.0.1 dlied1.qq.com
@@ -2532,7 +2405,6 @@
 128.0.0.1 oth.eve.mdt.qq.com
 128.0.0.1 android.bugly.qq.com
 128.0.0.1 pingma.qq.com
-
 127.0.0.1  dlied1.tcdn.qq.com
 127.0.0.1  dlied2.tcdn.qq.com
 127.0.0.1  dlied3.tcdn.qq.com
@@ -2852,91 +2724,48 @@ mx.qq.com - 0.0.0.1
 127.0.0.1 |     ssl.facebook.com - 2a03:2880:f02f:112:face:b00c:0:2
 127.0.0.1 |     dev.facebook.com - 2401:db00:
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 cloud.gsdk.proximabeta.com:18081
-
 127.0.0.1 vmp.qq.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0 0.1 file.igamecj.com
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 file-igamecj.akamaized.net
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 182.254.116.117
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 203.205.158.41
-
 127.0.0.1 cloud.gsdk.proximabeta.com:18081
-
 127.0.0.1 oth.str.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127. 0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0. 1 dlied1.qq.com
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
 127.0.0.1  graph.facebook.com 31.13.79.18:443
 127.0.0.1  graph.facebook.com 31.13.79.18:443
@@ -3112,125 +2941,65 @@ mx.qq.com - 0.0.0.1
 127.0.0.1  dlied1.qq.com
 127.0.0.1  tencentgames.helpshift.com
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 android.bugly.qq.com
-
 127.0.0.1 cdn.wetest.qq.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 app-measurement.com
-
 127.0.0.1 hkconfig.gcloud.qq.com
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1 cloud.gsdk.proximabeta.com:18081
-
 127.0.0.1 vmp.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1dlied1.qq.com
-
 127.0.0.1dlied1.qq.com
-
 127.0.0.1 ig-us-notice.igamecj.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 dlied1.qq.com
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 down.qq.com
-
 127.0.0.1 203.205.138.243
-
 127.0.0.1 182.254.116.117
-
 127.0.0.1 182.254.116.117
-
 127.0.0.1 182.254.116.117
-
 127.0.0.1 hkconfig.gcloud.qq.com
-
 127.0.0.1182.254.116.117
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 182.254.116.117
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 182.254.116.117
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 file.igamecj.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 pay.igamecj.com
-
 127.0.0.1 app.adjust.com
-
 127.0.0.1 graph.facebook.com
-
 127.0.0.1ig-us-sdkapi.igamecj.com
-
 127.0.0.1 tencentgames.helpshift.com
-
 127.0.0.1 hk.api.unipay.qq.com
-
 127.0.0.1 hk.api.unipay.qq.com
-
 127.0.0.1 hk.api.unipay.qq.com
-
 127.0.0.1 szmg.qq.com
-
 127.0.0.1 pay.igamecj.com
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 oth.str.mdt.qq.com:8080
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 oth.eve.mdt.qq.com:8080
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127.0.0.1 pingma.qq.com:80
-
 127.0.0.1 ig-us-notice.igamecj.com
-
 127.0.0.1 ig-us-sdkapi.igamecj.com
-
 127 0.0.1 tencentgames.helpshift.com
 127.0.0.1 idc.dir.tdm.qq.com
 127.0.0.1 oth.update.mdt.qq.com
@@ -3435,7 +3204,6 @@ mx.qq.com - 0.0.0.1
 128.0.0.1 oth.eve.mdt.qq.com
 128.0.0.1 android.bugly.qq.com
 128.0.0.1 pingma.qq.com
-
 127.0.0.1  dlied1.tcdn.qq.com
 127.0.0.1  dlied2.tcdn.qq.com
 127.0.0.1  dlied3.tcdn.qq.com
@@ -3467,7 +3235,6 @@ mx.qq.com - 0.0.0.1
 128.0.0.1 oth.eve.mdt.qq.com
 128.0.0.1 android.bugly.qq.com
 128.0.0.1 pingma.qq.com
-
 127.0.0.1  dlied1.tcdn.qq.com
 127.0.0.1  dlied2.tcdn.qq.com
 127.0.0.1  dlied3.tcdn.qq.com
@@ -3778,8 +3545,7 @@ mx.qq.com - 0.0.0.1
 127.0.0.1  oth.eve.mdt.qq.com:8080
 127.0.0.1  ig-us-notice.igamecj.com
  127.0.0.1   tencentgames.helpshift.com
- 
-128.0.0.1       localhost::1             ip6-localhost
+ 128.0.0.1       localhost::1             ip6-localhost
 128.0.0.1 www.dingd.cn
 128.0.0.1 api.dingd.cn
 128.0.0.1 dlied1.qq.com
@@ -4057,7 +3823,7 @@ mx.qq.com - 0.0.0.1
 127.0.0.1  tencentgames.helpshift.com
 127.0.0.1  tencentgames.helpshift.com
 127.0.0.1  cloud.gsdk.proximabeta.com:18081
-127.0.0.1  puffer.4.1375135419.igame.gcloudcs.comÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½ÃƒÂ¯Ã‚Â¿Ã‚Â½
+127.0.0.1  puffer.4.1375135419.igame.gcloudcs.com
 127.0.0.1  tencentgames.helpshift.com
 127.0.0.1  android.bugly.qq.com
 127.0.0.1  tencentgames.helpshift.com
