@@ -66,7 +66,7 @@ cdn.vn.garenanow.com.akamaized.net
 45.119.241.238 download.2.1945015797.kgvn.gcloud.garena.vn
 203.205.235.218 oth.eve.mdt.qq.com
 203.205.235.48 oth.eve.mdt.qq.com
-0.0.0.0 iosbugly.qq.com
+0.0.0.0 ios.bugly.qq.com
 119.28.38.28 cloud2.gsdk.proximabeta.com
 203.205.219.228 idcconfig.gcloud.qq.com
 idcconfig.gcloud.wechatos.net
@@ -110,3 +110,8 @@ idcconfig.gcloud.wechatos.net
 172.217.194.138 clients4.google.com
 17.42.254.15 p45-buy.itunes.apple.com
 69.171.250.13 scontent.xx.fbcdn.net
+0.0.0.0 tvnotice.kgvn.garena.vn
+lb._dns-sd._udp.0.209.16.172.in-addr.arpa
+lb._dns-sd._udp.0.12.168.192.in-addr.arpa
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
