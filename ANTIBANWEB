@@ -4,7 +4,8 @@ world-gen.g.applimg.com
 app.ldnld.apple.com
 gdmf.apple.com
 ppg.app.com
----HOST LQM BY AVTA---# localhost is used to configure the loopback interface
+---HOST LQM BY AVTA---
+# localhost is used to configure the loopback interface
 # when the system is booting.  Do not change this entry.
 ##
 127.0.0.1	localhost
