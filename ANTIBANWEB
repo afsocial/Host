@@ -16,10 +16,10 @@ ppg.app.com
 172.217.194.139 app-measurement.com
 172.217.194.113 app-measurement.com
 172.217.194.101 app-measurement.com
-169.46.82.162 iogs.papertrailapp.com
-169.46.82.164 iogs.papertrailapp.com
-169.46.82.165 iogs.papertrailapp.com
-169.46.82.163 iogs.papertrailapp.com
+169.46.82.162 logs.papertrailapp.com
+169.46.82.164 logs.papertrailapp.com
+169.46.82.165 logs.papertrailapp.com
+169.46.82.163 logs.papertrailapp.com
 74.125.24.101 app-measurement.com
 74.125.24.138 app-measurement.com
 74.125.24.100 app-measurement.com
@@ -44,7 +44,7 @@ ovsdown-update.qq.com.tegsea.tc.qq.com
 45.119.243.26 speed.kg.garena.vn
 203.205.179.175 cs.mainconn.gamesafe.qq.com
 45.119.241.228 pvp.live.kg.garena.com
-69.171.250.13 platfrom-lookaside.fbsbx.com
+69.171.250.13 platform-lookaside.fbsbx.com
 203.205.254.104 speed.indo.qq.com
 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
 54.169.48.105 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
@@ -59,8 +59,8 @@ cdn.vn.garenanow.com.akamaized.net
 52.76.96.92 iqia6two1k.execute-ap-southeast-1.amazonaws.com
 0.0.0.0 ng-vn-notice.gameitop.com
 103.247.206.23 connect.garenanow.com
-45.119.241.238 dir.4.1945015797.kgvn.garena.vn
-45.119.241.238 puffer.6.1945015797.kgvn.garena.vn
+45.119.241.238 dir.4.1945015797.kgvn.gcloud.garena.vn
+45.119.241.238 puffer.6.1945015797.kgvn.gcloud.garena.vn
 game.str.mdt.qq.com
 183.36.108.26 oth.str.mdt.qq.com
 183.36.108.31 oth.str.mdt.qq.com
@@ -75,4 +75,7 @@ game.str.mdt.qq.com
 idcconfig.gcloud.wechatos.net
 203.205.253.183 bugly.qq.com
 203.205.253.140 bugly.qq.com
-sparta.qb.mig.tencent-cloud.
+17.253.83.202 mesu-apple.com.akadns.net
+17.253.83.207 mesu-apple.com.akadns.net
+143.92.121.132 testconnect.garenanow.com
+203.205.254.104 speed.ino.qq.com
