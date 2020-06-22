@@ -35,8 +35,6 @@ ppg.app.com
 203.205.155.72 dlied1.qq.com
 203.205.155.69 dlied1.qq.com
 203.205.155.84 dlied1.qq.com
-ovsdown-update.qq.com.tegsea.tc.qq.com
-404591.d1.download.ettdnsv.com
 203.205.239.248 oth.eve.mdt.qq.com
 203.205.235.218 oth.eve.mdt.qq.com
 45.119.243.16 speed.kg.garena.vn
@@ -55,11 +53,12 @@ cdn.vn.garenanow.com.akamaized.net
 45.119.241.222 kg.midas.garena.vn
 52.74.217.91 iqia6two1k.execute-ap-southeast-1.amazonaws.com
 52.76.96.92 iqia6two1k.execute-ap-southeast-1.amazonaws.com
+52.77.156.77 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
+52.220.218.26 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
 0.0.0.0 ng-vn-notice.gameitop.com
 103.247.206.23 connect.garenanow.com
 45.119.241.238 dir.4.1945015797.kgvn.gcloud.garena.vn
 45.119.241.238 puffer.6.1945015797.kgvn.gcloud.garena.vn
-game.str.mdt.qq.com
 183.36.108.26 oth.str.mdt.qq.com
 183.36.108.31 oth.str.mdt.qq.com
 183.36.108.32 oth.str.mdt.qq.com
@@ -77,3 +76,22 @@ idcconfig.gcloud.wechatos.net
 17.253.83.207 mesu-apple.com.akadns.net
 143.92.121.132 testconnect.garenanow.com
 203.205.254.104 speed.ino.qq.com
+23.46.16.239 a1939.d.akamai.net
+23.46.16.184 a1939.d.akamai.net
+23.46.16.182 a1939.d.akamai.net
+23.46.16.173 a1939.d.akamai.net
+23.46.16.119 a1939.d.akamai.net
+23.46.16.214 a1939.d.akamai.net
+23.46.16.199 a1939.d.akamai.net
+23.46.16.205 a1939.d.akamai.net
+23.46.16.157 a1939.d.akamai.net
+23.46.16.133 a1939.d.akamai.net
+23.46.16.144 a1939.d.akamai.net
+23.46.16.174 a1939.d.akamai.net
+23.46.16.165 a1939.d.akamai.net
+23.199.34.10 a19399.d.akamai.net
+23.210.215.96 a19399.d.akamai.net
+23.199.69.170 a1939.d.akamai.net.01.cn.akamaitech.net
+23.199.69.162 a1939.d.akamai.net.01.cn.akamaitech.net
+122.11.128.167 f.gxx.garenanow.com
+122.11.128.166 f.gxx.garenanow.com
