@@ -5,6 +5,10 @@ app.ldnld.apple.com
 gdmf.apple.com
 ppg.app.com
 ---HOST LQM BY AVTA---
+23.40.248.27 init.itunes.apple.com
+23.40.249.4 www.apple.com
+104.111.166.65 www.icloud.com
+17.252.172.5 guzzoni.apple.com
 0.0.0.0 pingma.qq.com
 74.125.200.95 play.googleapis.com
 203.205.179.175 cs.mainconn.gamesafe.qq.com
@@ -152,12 +156,12 @@ idcconfig.gcloud.wechatos.net
 172.217.194.95 safebrowsing.googleapis.com
 69.171.250.15 graph.facebook.com
 172.217.194.188 mtalk.google.com
+203.205.155.20 22983.liveplay.myqcloud.com
 150.109.90.88 22983.liveplay.myqcloud.com
 150.109.90.12 22983.liveplay.myqcloud.com
 150.109.91.51 22983.liveplay.myqcloud.com
 150.109.91.107 22983.liveplay.myqcloud.com
 150.109.90.27 22983.liveplay.myqcloud.com
-203.205.155.20 22983.liveplay.myqcloud.com
 150.109.91.75 22983.liveplay.myqcloud.com
 150.109.91.47 22983.liveplay.myqcloud.com
 150.109.91.45 22983.liveplay.myqcloud.com
@@ -180,3 +184,11 @@ idcconfig.gcloud.wechatos.net
 123.207.131.113 mlvbdc.live.qcloud.com
 172.217.194.95 iid.googleapis.com
 74.125.68.96 iid.googleapis.com
+17.248.131.201 gateway.icloud.com
+17.248.131.51 gateway.icloud.com
+17.248.131.43 gateway.icloud.com
+17.248.131.20 gateway.icloud.com
+17.248.131.142 gateway.icloud.com
+17.248.131.180 gateway.icloud.com
+17.248.185.137 gateway.icloud.com
+17.248.185.43 gateway.icloud.com
