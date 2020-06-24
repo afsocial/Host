@@ -38,8 +38,8 @@ ppg.app.com
 203.205.239.248 oth.eve.mdt.qq.com
 203.205.235.218 oth.eve.mdt.qq.com
 45.119.243.16 speed.kg.garena.vn
-45.119.241.230 speed.kg.garena.vn
 45.119.243.26 speed.kg.garena.vn
+45.119.241.230 speed.kg.garena.vn
 203.205.179.175 cs.mainconn.gamesafe.qq.com
 45.119.241.228 pvp.live.kg.garena.vn
 69.171.250.13 platform-lookaside.fbsbx.com
@@ -94,10 +94,6 @@ idcconfig.gcloud.wechatos.net
 23.199.69.162 a1939.d.akamai.net.01.cn.akamaitech.net
 122.11.128.167 f.gxx.garenanow.com
 122.11.128.166 f.gxx.garenanow.com
-23.215.177.8 cndgarenanow-a.akamaihd.net
-23.215.177.80 cndgarenanow-a.akamaihd.net
-23.46.16.175 cndgarenanow-a.akamaihd.net
-23.46.16.174 cndgarenanow-a.akamaihd.net
 172.217.194.113 clients4.google.com
 172.217.194.101 clients4.google.com
 172.217.194.102 clients4.google.com
@@ -149,3 +145,7 @@ idcconfig.gcloud.wechatos.net
 23.59.168.217 cdngarenanow-akamaihd.net
 23.44.11.209 cdngarenanow-a.akamaihd.net
 23.44.11.216 cdngarenanow-a.akamaihd.net
+23.215.177.8 cndgarenanow-a.akamaihd.net
+23.215.177.80 cndgarenanow-a.akamaihd.net
+23.46.16.175 cndgarenanow-a.akamaihd.net
+23.46.16.174 cndgarenanow-a.akamaihd.net
