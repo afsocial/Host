@@ -5,6 +5,9 @@ app.ldnld.apple.com
 gdmf.apple.com
 ppg.app.com
 ---HOST LQM BY AVTA---
+
+74.125.200.95 device-provisioning.goolrapis.com
+151.139.128.14 ocsp.comodoca.com
 23.40.248.27 configuration.apple.com
 23.78.218.65 xp.apple.com
 23.40.248.27 init.itunes.apple.com
@@ -202,3 +205,28 @@ idcconfig.gcloud.wechatos.net
 17.248.131.180 gateway.icloud.com
 17.248.185.137 gateway.icloud.com
 17.248.185.43 gateway.icloud.com
+107.155.6.231 vn.voice.gcloudcs.com
+107.155.6.233 vn.voice.gcloudcs.com
+137.59.117.102 lienquan.garena.vn
+137.59.117.103 lienquan.garena.vn
+137.59.117.104 lienquan.garena.vn
+137.59.117.105 lienquan.garena.vn
+137.59.117.106 lienquan.garena.vn
+17.253.83.207 valid.apple.com
+17.253.83.203 valid.apple.com
+17.248.185.48 caldav.icloud.com
+17.248.131.51 caldav.icloud.com
+17.248.131.239 caldav.icloud.com
+17.248.131.233 caldav.icloud.com
+17.248.131.236 caldav.icloud.com
+17.248.131.232 caldav.icloud.com
+17.248.131.240 caldav.icloud.com
+17.248.131.23 caldav.icloud.com
+17.248.185.48 p53-caldav.icloud.com
+17.248.131.51 p53-caldav.icloud.com
+17.248.131.239 cp53-caldav.icloud.com
+17.248.131.233 p53-caldav.icloud.com
+17.248.131.236 p53-caldav.icloud.com
+17.248.131.232 p53-caldav.icloud.com
+17.248.131.240 p53-caldav.icloud.com
+17.248.131.23 p53-caldav.icloud.com
