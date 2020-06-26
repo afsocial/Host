@@ -5,7 +5,7 @@ app.ldnld.apple.com
 gdmf.apple.com
 ppg.app.com
 ---HOST LQM BY AVTA---
-
+17.252.233.246 api-glb-sin.smoot.apple.com
 74.125.200.95 device-provisioning.goolrapis.com
 151.139.128.14 ocsp.comodoca.com
 23.40.248.27 configuration.apple.com
@@ -230,3 +230,11 @@ idcconfig.gcloud.wechatos.net
 17.248.131.232 p53-caldav.icloud.com
 17.248.131.240 p53-caldav.icloud.com
 17.248.131.23 p53-caldav.icloud.com
+17.248.131.16 metrics.icloud.com
+17.248.131.174 metrics.icloud.com
+17.248.131.20 metrics.icloud.com
+17.248.131.147 metrics.icloud.com
+17.248.185.132 metrics.icloud.com
+17.248.185.6 metrics.icloud.com
+17.248.185.38 metrics.icloud.com
+17.248.185.167 metrics.icloud.com
