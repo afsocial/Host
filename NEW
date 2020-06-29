@@ -1,6 +1,6 @@
 58.247.215.105  c.tdm.qq.com
 140.207.122.141 c.tdm.qq.com
-210.2.2.247.194  c.tdm.qq.com
+210.22.247.194  c.tdm.qq.com
 172.217.194.138 app-measurement.com
 172.217.194.102 app-measurement.com
 172.217.194.139 app-measurement.com
@@ -20,6 +20,7 @@
 119.28.111.214  qos.hk.gcloud.com
 203.205.235.218 oth.eve.mdt.qq.com
 203.205.239.248 oth.eve.mdt.qq.com
+203.205.235.48 	oth.eve.mdt.qq.com
 27.71.113.56  a1807.b.akamai.net
 27.71.113.50  a1807.b.akamai.net
 122.11.128.166  f.gxx.garenanow.com
@@ -43,14 +44,16 @@
 27.71.113.73  intldlgs.qq.com.cdn.ettdnsv.com
 27.71.113.64  intldlgs.qq.com.cdn.ettdnsv.com
 27.71.113.56  intldlgs.qq.com.cdn.ettdnsv.com
+23.52.171.73  intldlgs.qq.com
+23.52.171.80  intldlgs.qq.com
 27.71.113.56  intldlgs.qq.com
 27.71.113.64  intldlgs.qq.com
 27.71.113.57  intldlgs.qq.com
-27.71.113.121  intldlgs.qq.com
+27.71.113.121 intldlgs.qq.com
 27.71.113.32  intldlgs.qq.com
-27.71.113.123  intldlgs.qq.com
+27.71.113.123 intldlgs.qq.com
 125.234.51.97 intldlgs.qq.com
-125.234.51.106 intldlgs.qq.com
+125.234.51.106  intldlgs.qq.com
 125.234.51.40 intldlgs.qq.com
 125.234.51.114 intldlgs.qq.com
 119.28.121.174  asia.csoversea.mbgame.anticheatexpert.com
@@ -70,6 +73,7 @@
 52.16.191.93 inapps.appsflyer.com
 52.214.73.92 inapps.appsflyer.com
 203.205.254.104 speed.ino.qq.com
+13.228.213.111 	speed.ino.qq.com
 124.156.189.81  control.mna.qq.com
 45.119.241.205  ng-vn-sdkapi.gameitop.com
 103.247.207.15  100054.connect.garena.com
@@ -80,6 +84,7 @@
 45.119.241.238  dir.4.1945015797.kgvn.gcloud.garena.vn
 157.240.217.15  platform-lookaside.fbsbx.com
 119.28.121.76 cloud2.gsdk.proximabeta.com
+119.28.38.28  cloud2.gsdk.proximabeta.com
 45.119.241.222  kg.midas.garena.vn
 103.247.206.21  connect.garenanow.com
 45.119.241.210  ng-vn-notice.gameitop.com
