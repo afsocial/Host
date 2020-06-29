@@ -7,7 +7,7 @@ ppg.app.com
 ---HOST LQM BY AVTA---
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
-0.0.0.0 inapps.appsflyer.com/
+0.0.0.0 inapps.appsflyer.com  127.0.0.1   inapps.appsflyer.com
 0.0.0.0 ios.bugly.qq.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 ng-vn-notice.gameitop.com
