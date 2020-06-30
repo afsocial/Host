@@ -18,6 +18,10 @@
 129.226.157.232  qos.hk.gcloud.com
 150.109.95.159  qos.hk.gcloud.com
 119.28.111.214  qos.hk.gcloud.com
+129.226.155.66  qos.hk.gcloudcs.com
+129.226.157.232  qos.hk.gcloudcs.com
+150.109.95.159  qos.hk.gcloudcs.com
+119.28.111.214  qos.hk.gcloudcs.com
 203.205.235.218 oth.eve.mdt.qq.com
 203.205.239.248 oth.eve.mdt.qq.com
 203.205.235.48 	oth.eve.mdt.qq.com
@@ -38,6 +42,8 @@
 27.71.113.66  cdngarenanow-a.akamaihd.net
 107.155.6.233 vn.voice.gcloud.com
 107.155.6.231 vn.voice.gcloud.com
+107.105.6.231 vn.voice.gcloudcs.com
+107.105.6.233 vn.voice.gcloudcs.com
 27.71.113.91  intldlgs.qq.com.cdn.ettdnsv.com
 27.71.113.19  intldlgs.qq.com.cdn.ettdnsv.com
 27.71.113.123  intldlgs.qq.com.cdn.ettdnsv.com
