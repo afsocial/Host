@@ -331,11 +331,11 @@ ppg.app.com
 23.46.16.239 a1939.d.akamai.net
 23.49.60.170 ocsp.int-x3.letsencrypt.org
 23.49.60.202 ocsp.int-x3.letsencrypt.org
-23.49.60.64  a1991.dscd.akamai.net
+23.49.60.64 a1991.dscd.akamai.net
 23.49.60.64 a1991.dscd.akamai.net
 23.50.236.175 xp.apple.com
 23.51.208.198 cl5.apple.com
-23.52.171.73  intldlgs.qq.com
+23.52.171.73 intldlgs.qq.com
 23.52.171.80 intldlgs.qq.com
 23.54.81.171 a1939.d.akamai.net
 23.54.81.171 dlmobilegarena-a.akamaihd.net
@@ -408,6 +408,5 @@ ppg.app.com
 74.125.24.119 i.ytimg.com
 74.125.24.138 app-measurement.com
 74.125.24.139 app-measurement.com
-74.125.24.95  safebrowsing.googleapis.com
+74.125.24.95 safebrowsing.googleapis.com
 74.125.68.96 iid.googleapis.com
-
