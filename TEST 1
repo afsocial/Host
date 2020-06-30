@@ -12,6 +12,7 @@ ppg.app.com
 0.0.0.0 cdn.vn.garenanow.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cl5.apple.com
+0.0.0.0 cloud2.gsdk.proximabeta.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 control.mna.qq.com
 0.0.0.0 cs.mainconn.gamesafe.qq.com
@@ -19,8 +20,10 @@ ppg.app.com
 0.0.0.0 dir.4.1945015797.kgvn.gcloud.garena.vn
 0.0.0.0 dlied1.qq.com
 0.0.0.0 download.2.1945015797.kgvn.gcloud.garena.vn
+0.0.0.0 f.gxx.garenanow.com
 0.0.0.0 feed-static.y5en.com
 0.0.0.0 gateway.icloud.com
+0.0.0.0 gop.captcha.garena.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 i.ytimg.com
 0.0.0.0 idcconfig.gcloud.qq.com
@@ -41,6 +44,7 @@ ppg.app.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 play.googleapis.com
+0.0.0.0 prd-lender.cdp.internal.unity3d.com
 0.0.0.0 pvp.live.kg.garena.vn
 0.0.0.0 qos.hk.gcloud.com
 0.0.0.0 qos.hk.gcloudcs.com
@@ -112,6 +116,7 @@ ppg.app.com
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 cl5.apple.com
 127.0.0.1 clients4.google.com
+
 127.0.0.1 cloud2.gsdk.proximabeta.com
 127.0.0.1 cndgarenanow-a.akamaihd.net
 127.0.0.1 config.uca.cloud.unity3d.com
@@ -126,9 +131,11 @@ ppg.app.com
 127.0.0.1 donggia.moba.garena.vn
 127.0.0.1 download.2.1945015797.kgvn.gcloud.garena.vn
 127.0.0.1 e7248.dscb.akamaiedge.net
+
 127.0.0.1 f.gxx.garenanow.com
 127.0.0.1 feed-static.y5en.com
 127.0.0.1 gateway.icloud.com
+127.0.0.1 gop.captcha.garena.com
 127.0.0.1 graph.facebook.com
 127.0.0.1 gsp64-ssl.ls.apple.com
 127.0.0.1 gsp-ssl.apple.com
@@ -143,7 +150,7 @@ ppg.app.com
 127.0.0.1 ios.bugly.qq.com
 127.0.0.1 iphonesubmissions.apple.com
 127.0.0.1 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
-127.0.0.1 iqia6two1k.execute-ap-southeast-1.amazonaws.com
+
 127.0.0.1 itunes.apple.com
 127.0.0.1 kg.midas.garena.vn
 127.0.0.1 kit.fontawesome.com
@@ -168,6 +175,7 @@ ppg.app.com
 127.0.0.1 pingma.qq.com
 127.0.0.1 platform-lookaside.fbsbx.com
 127.0.0.1 play.googleapis.com
+127.0.0.1 prd-lender.cdp.internal.unity3d.com
 127.0.0.1 pvp.live.kg.garena.vn
 127.0.0.1 qos.hk.gcloudcs.com
 127.0.0.1 safebrowsing.googleapis.com
@@ -189,7 +197,7 @@ ppg.app.com
 127.0.0.1 www.icloud.com
 127.0.0.1 www.net.cn
 127.0.0.1 xp.apple.com
-127.0.0.1time-ios.apple.com
+127.0.0.1 time-ios.apple.com
 129.226.155.66 qos.hk.gcloud.com
 129.226.155.66 qos.hk.gcloudcs.com
 129.226.157.232 qos.hk.gcloud.com
@@ -402,3 +410,4 @@ ppg.app.com
 74.125.24.139 app-measurement.com
 74.125.24.95  safebrowsing.googleapis.com
 74.125.68.96 iid.googleapis.com
+
