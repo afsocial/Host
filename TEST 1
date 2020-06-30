@@ -552,3 +552,6 @@ ppg.app.com
 74.125.24.95 safebrowsing.googleapis.com
 74.125.24.99 www.google.com
 74.125.68.96 iid.googleapis.com
+23.213.141.208 configuration.ls.apple.com
+127.0.0.1 configuration.ls.apple.com
+0.0.0.0 configuration.ls.apple.com
