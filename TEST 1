@@ -4,15 +4,53 @@ world-gen.g.applimg.com
 app.ldnld.apple.com
 gdmf.apple.com
 ppg.app.com
+0.0.0.0 apis.google.com
+0.0.0.0 app-measurement.com
+0.0.0.0 asia.csoversea.mbgame.anticheatexpert.com
+0.0.0.0 c.tdm.qq.com
+0.0.0.0 caldav.icloud.com
+0.0.0.0 cdn.vn.garenanow.com
 0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 cl5.apple.com
 0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 control.mna.qq.com
+0.0.0.0 cs.mainconn.gamesafe.qq.com
+0.0.0.0 device-provisioning.goolrapis.com
+0.0.0.0 dir.4.1945015797.kgvn.gcloud.garena.vn
+0.0.0.0 dlied1.qq.com
+0.0.0.0 download.2.1945015797.kgvn.gcloud.garena.vn
+0.0.0.0 feed-static.y5en.com
+0.0.0.0 gateway.icloud.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 iid.googleapis.com
 0.0.0.0 inapps.appsflyer.com
+0.0.0.0 intldgs.qq.com
 0.0.0.0 ios.bugly.qq.com
+0.0.0.0 iphonesubmissions.apple.com
+0.0.0.0 iqia6two1k.execute-ap-southeast-1.amazonaws.com
+0.0.0.0 itunes.apple.com
+0.0.0.0 kg.midas.garena.vn
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 logs.papertrailapp.com
+0.0.0.0 mtalk.google.com
 0.0.0.0 ng-vn-notice.gameitop.com
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 oth.str.mdt.qq.com
 0.0.0.0 pingma.qq.com
+0.0.0.0 platform-lookaside.fbsbx.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 pvp.live.kg.garena.vn
+0.0.0.0 qos.hk.gcloud.com
+0.0.0.0 qos.hk.gcloudcs.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+0.0.0.0 speed.kg.garena.vn
+0.0.0.0 testconnect.garenanow.com
 0.0.0.0 tvnotice.kg.garena.vn
-0.0.0.0config.uca.cloud.unity3d.com
+0.0.0.0 vn.game.rosetta.garenanow.com
+0.0.0.0 xp.apple.com
 1.9.250.3 feed-static.y5en.com
 103.239.120.10 cdn.vn.garenanow.com
 103.239.120.2 cdn.vn.garenanow.com
@@ -266,7 +304,6 @@ ppg.app.com
 23.218.94.80 avatargarenanow-a.akamaihd.net
 23.40.248.27 configuration.apple.com
 23.40.248.27 init.itunes.apple.com
-23.40.249.4 www.apple.com
 23.44.11.209 cdngarenanow-a.akamaihd.net
 23.44.11.216 cdngarenanow-a.akamaihd.net
 23.46.16.119 a1939.d.akamai.net
@@ -297,7 +334,7 @@ ppg.app.com
 23.54.81.233 a1939.d.akamai.net
 23.54.81.233 dlmobilegarena-a.akamaihd.net
 23.56.24.52 itunes.apple.com
-23.56.25.205 apple.com
+23.56.25.205 time-ios.apple.com
 23.59.168.168 cdn.vn.garenanow.com
 23.59.168.184 cdngarenanow-akamaihd.net
 23.59.168.209 cdn.vn.garenanow.com
@@ -329,7 +366,7 @@ ppg.app.com
 45.119.241.210 ng-vn-notice.gameitop.com
 45.119.241.222 kg.midas.garena.vn
 45.119.241.228 pvp.live.kg.garena.vn
-45.119.241.230  speed.kg.garena.vn
+45.119.241.230 speed.kg.garena.vn
 45.119.241.238 dir.4.1945015797.kgvn.gcloud.garena.vn
 45.119.241.238 download.2.1945015797.kgvn.gcloud.garena.vn
 45.119.241.238 puffer.6.1945015797.kgvn.gcloud.garena.vn
