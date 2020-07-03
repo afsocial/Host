@@ -1,275 +1,139 @@
 27.71.113.24 play.itunes.apple.com
 27.71.113.49 play.itunes.apple.com
- 27.71.113.64 play.itunes.apple.com
- 27.71.113.33 play.itunes.apple.com
- 27.71.113.24 CNAME, play-cdn.itunes-apple.com.akadns.net.
- 27.71.113.49 CNAME, play-cdn.itunes-apple.com.akadns.net.
- 27.71.113.64 CNAME, play-cdn.itunes-apple.com.akadns.net.
- 27.71.113.33 CNAME, play-cdn.itunes-apple.com.akadns.net.
- 27.71.113.24 CNAME, play.itunes.apple.com.edgesuite.net.
- 27.71.113.49 CNAME, play.itunes.apple.com.edgesuite.net.
- 27.71.113.64 CNAME, play.itunes.apple.com.edgesuite.net.
- 27.71.113.33 CNAME, play.itunes.apple.com.edgesuite.net.
- 27.71.113.24 CNAME, a1806.dscb.akamai.net.
- 27.71.113.49 CNAME, a1806.dscb.akamai.net.
- 27.71.113.64 CNAME, a1806.dscb.akamai.net.
- 27.71.113.33 CNAME, a1806.dscb.akamai.net.
- 17.56.48.13 notes-analytics-events.apple.com
- 17.56.48.13 CNAME, notes-analytics-events.news.apple-dns.net.
- 23.74.221.140 configuration.apple.com
- 23.74.221.140 CNAME, configuration.apple.com.akadns.net.
- 23.74.221.140 CNAME, configuration.apple.com.edgekey.net.
- 23.74.221.140 CNAME, e673.dsce9.akamaiedge.net.
- 17.248.154.113 gateway.icloud.com
- 17.248.154.73 gateway.icloud.com
- 17.248.154.179 gateway.icloud.com
- 17.248.154.149 gateway.icloud.com
- 17.248.154.76 gateway.icloud.com
- 17.248.154.101 gateway.icloud.com
- 17.248.154.175 gateway.icloud.com
- 17.248.154.81 gateway.icloud.com
- 17.248.154.113 CNAME, gateway.fe.apple-dns.net.
- 17.248.154.73 CNAME, gateway.fe.apple-dns.net.
- 17.248.154.179 CNAME, gateway.fe.apple-dns.net.
- 17.248.154.149 CNAME, gateway.fe.apple-dns.net.
- 17.248.154.76 CNAME, gateway.fe.apple-dns.net.
- 17.248.154.101 CNAME, gateway.fe.apple-dns.net.
- 17.248.154.175 CNAME, gateway.fe.apple-dns.net.
- 17.248.154.81 CNAME, gateway.fe.apple-dns.net.
- 203.205.254.159 pingma.qq.com
- 74.125.24.100 app-measurement.com
- 74.125.24.138 app-measurement.com
- 74.125.24.102 app-measurement.com
- 74.125.24.101 app-measurement.com
- 74.125.24.139 app-measurement.com
- 74.125.24.113 app-measurement.com
- 157.240.13.14 graph.facebook.com
- 157.240.13.14 CNAME, api.facebook.com.
- 157.240.13.14 CNAME, star.c10r.facebook.com.
- 74.125.200.95 play.googleapis.com
- 169.46.82.164 logs.papertrailapp.com
- 169.46.82.162 logs.papertrailapp.com
- 169.46.82.163 logs.papertrailapp.com
- 169.46.82.165 logs.papertrailapp.com
- 74.125.24.188 mtalk.google.com
- 74.125.24.188 CNAME, mobile-gtalk.l.google.com.
- 52.49.159.43 launches.appsflyer.com
- 34.251.5.171 launches.appsflyer.com
- 52.17.222.102 launches.appsflyer.com
- 34.242.178.76 launches.appsflyer.com
- 52.211.199.35 launches.appsflyer.com
- 52.211.152.255 launches.appsflyer.com
- 52.51.241.103 launches.appsflyer.com
- 54.77.12.108 launches.appsflyer.com
- 52.49.159.43 CNAME, conversions.appsflyer.com.
- 34.251.5.171 CNAME, conversions.appsflyer.com.
- 52.17.222.102 CNAME, conversions.appsflyer.com.
- 34.242.178.76 CNAME, conversions.appsflyer.com.
- 52.211.199.35 CNAME, conversions.appsflyer.com.
- 52.211.152.255 CNAME, conversions.appsflyer.com.
- 52.51.241.103 CNAME, conversions.appsflyer.com.
- 54.77.12.108 CNAME, conversions.appsflyer.com.
- 74.125.24.95 iid.googleapis.com
- 35.241.26.53 config.uca.cloud.unity3d.com
- 35.241.26.53 CNAME, remote-config-proxy-prd.uca.cloud.unity3d.com.
- 27.71.113.50 intldlgs.qq.com
- 27.71.113.91 intldlgs.qq.com
- 27.71.113.56 intldlgs.qq.com
- 27.71.113.64 intldlgs.qq.com
- 27.71.113.50 CNAME, intldlgs.qq.com.tegsea.tc.qq.com.
- 27.71.113.91 CNAME, intldlgs.qq.com.tegsea.tc.qq.com.
- 27.71.113.56 CNAME, intldlgs.qq.com.tegsea.tc.qq.com.
- 27.71.113.64 CNAME, intldlgs.qq.com.tegsea.tc.qq.com.
- 27.71.113.50 CNAME, intldlgs.qq.com.cdn.ettdnsv.com.
- 27.71.113.91 CNAME, intldlgs.qq.com.cdn.ettdnsv.com.
- 27.71.113.56 CNAME, intldlgs.qq.com.cdn.ettdnsv.com.
- 27.71.113.64 CNAME, intldlgs.qq.com.cdn.ettdnsv.com.
- 27.71.113.50 CNAME, intldlgs.qq.com.edgesuite.net.
- 27.71.113.91 CNAME, intldlgs.qq.com.edgesuite.net.
- 27.71.113.56 CNAME, intldlgs.qq.com.edgesuite.net.
- 27.71.113.64 CNAME, intldlgs.qq.com.edgesuite.net.
- 27.71.113.50 CNAME, a1807.b.akamai.net.
- 27.71.113.91 CNAME, a1807.b.akamai.net.
- 27.71.113.56 CNAME, a1807.b.akamai.net.
- 27.71.113.64 CNAME, a1807.b.akamai.net.
- 203.205.219.228 idcconfig.gcloud.qq.com
- 203.205.219.228 CNAME, idcconfig.gcloud.wechatos.net.
- 203.205.253.140 bugly.qq.com
- 203.205.253.183 bugly.qq.com
- 203.205.253.140 CNAME, sparta.qb.mig.tencent-cloud.net.
- 203.205.253.18  CNAME, sparta.qb.mig.tencent-cloud.net.
- 119.28.121.76 cloud2.gsdk.proximabeta.com
- 203.205.235.53 ios.bugly.qq.com
- 35.241.52.229 cdp.cloud.unity3d.com
- 35.241.52.229 CNAME, prd-lender.cdp.internal.unity3d.com.
- 35.241.52.229 CNAME, thind-prd-knob.data.ie.unity3d.com.
- 35.241.52.229 CNAME, thind-gke-usc.prd.data.corp.unity3d.com.
- 203.205.235.218 oth.eve.mdt.qq.com
- 203.205.239.248  oth.eve.mdt.qq.com
- 45.119.241.238 download.2.1945015797.kgvn.gcloud.garena.vn
- 183.36.108.26 oth.str.mdt.qq.com
- 183.36.108.32 oth.str.mdt.qq.com
- 183.57.48.33 oth.str.mdt.qq.com
- 183.36.108.31 oth.str.mdt.qq.com
- 183.36.108.26 CNAME, game.str.mdt.qq.com.
- 183.36.108.32  CNAME, game.str.mdt.qq.com.
- 183.57.48.33  CNAME, game.str.mdt.qq.com.
- 183.36.108.31 CNAME, game.str.mdt.qq.com.
- 17.253.83.203 pancake.apple.com
- 17.253.83.207 pancake.apple.com
- 17.253.83.203 CNAME, pancake.cdn-apple.com.akadns.net.
- 17.253.83.207 CNAME, pancake.cdn-apple.com.akadns.net.
- 17.253.83.203 CNAME, pancake.g.aaplimg.com.
- 17.253.83.207 CNAME, pancake.g.aaplimg.com.
- 45.119.241.238 puffer.6.1945015797.kgvn.gcloud.garena.vn
- 45.119.241.210 ng-vn-notice.gameitop.com
- 103.247.206.23 connect.garenanow.com
- 103.247.207.15 100054.connect.garena.com
- 103.247.207.15 CNAME, kg.connect.garena.com.
- 45.119.241.238 dir.4.1945015797.kgvn.gcloud.garena.vn
- 52.48.180.73 inapps.appsflyer.com
- 52.211.235.103 inapps.appsflyer.com
- 54.171.175.54 inapps.appsflyer.com
- 54.194.30.67 inapps.appsflyer.com
- 52.17.134.54 inapps.appsflyer.com
- 52.214.170.42 inapps.appsflyer.com
- 52.30.251.27 inapps.appsflyer.com
- 52.19.80.31 inapps.appsflyer.com
- 45.119.241.205 ng-vn-sdkapi.gameitop.com
- 172.217.194.139 apis.google.com
- 172.217.194.101 apis.google.com
- 172.217.194.102 apis.google.com
- 172.217.194.100 apis.google.com
- 172.217.194.138 apis.google.com
- 172.217.194.113 apis.google.com
- 172.217.194.139 CNAME, plus.l.google.com.
- 172.217.194.101 CNAME, plus.l.google.com.
- 172.217.194.102 CNAME, plus.l.google.com.
- 172.217.194.100 CNAME, plus.l.google.com.
- 172.217.194.138 CNAME, plus.l.google.com.
- 172.217.194.113 CNAME, plus.l.google.com.
- 74.125.200.95 safebrowsing.googleapis.com
- 23.74.221.140 e673.dsce9.akamaiedge.net
- 203.205.219.228 idcconfig.gcloud.qq.com
- 203.205.219.228 CNAME, idcconfig.gcloud.wechatos.net.
- 13.228.241.209 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
- 3.1.180.135 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
- 45.119.241.222 kg.midas.garena.vn
- 23.74.221.140 itunes.apple.com
- 23.74.221.140 CNAME, itunes-cdn.itunes-apple.com.akadns.net.
- 23.74.221.140 CNAME, itunes.apple.com.edgekey.net.
- 23.74.221.140 CNAME, e673.dsce9.akamaiedge.net.
- 150.109.29.150 asia.csoversea.mbgame.anticheatexpert.com
- 119.28.121.174 asia.csoversea.mbgame.anticheatexpert.com
- 150.109.0.45 asia.csoversea.mbgame.anticheatexpert.com
- 150.109.0.38 asia.csoversea.mbgame.anticheatexpert.com
- 103.239.120.10 cdn.vn.garenanow.com
- 103.239.120.8 cdn.vn.garenanow.com
- 103.239.120.9 cdn.vn.garenanow.com
- 103.239.120.4 cdn.vn.garenanow.com
- 103.239.120.7 cdn.vn.garenanow.com
- 103.239.120.10 CNAME, temp.cdn.vn.garenanow.com.
- 103.239.120.8 CNAME, temp.cdn.vn.garenanow.com.
- 103.239.120.9 CNAME, temp.cdn.vn.garenanow.com.
- 103.239.120.4 CNAME, temp.cdn.vn.garenanow.com.
- 103.239.120.7 CNAME, temp.cdn.vn.garenanow.com.
- 124.156.189.81 control.mna.qq.com
- 203.205.254.104 speed.ino.qq.com
- 157.240.218.15 platform-lookaside.fbsbx.com
- 157.240.218.15 CNAME, scontent.xx.fbcdn.net.
- 45.119.241.147 tvnotice.kg.garena.vn
- 123.30.147.169 22983.liveplay.myqcloud.com
- 123.30.147.176 22983.liveplay.myqcloud.com
- 42.117.214.81 22983.liveplay.myqcloud.com
- 42.117.214.93 22983.liveplay.myqcloud.com
- 42.117.214.34 22983.liveplay.myqcloud.com
- 42.117.214.96 22983.liveplay.myqcloud.com
- 42.117.214.150 22983.liveplay.myqcloud.com
- 42.117.214.106 22983.liveplay.myqcloud.com
- 123.30.147.167 22983.liveplay.myqcloud.com
- 42.117.214.104 22983.liveplay.myqcloud.com
- 123.30.147.159 22983.liveplay.myqcloud.com
- 42.117.214.151 22983.liveplay.myqcloud.com
- 42.117.214.39 22983.liveplay.myqcloud.com
- 123.30.147.181 22983.liveplay.myqcloud.com
- 42.117.214.48 22983.liveplay.myqcloud.com
- 123.30.147.169 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 123.30.147.176 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.81 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.93 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.34 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.96 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.150 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.106 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 123.30.147.167 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.104 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 123.30.147.159 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.151 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.39 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 123.30.147.181 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 42.117.214.48 CNAME, 22983.switch.hyzhibo.cdntip.com.
- 123.30.147.169 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 123.30.147.176 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.81 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.93 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.34 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.96 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.150 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.106 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 123.30.147.167 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.104 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 123.30.147.159 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.151 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.39 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 123.30.147.181 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 42.117.214.48 CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
- 123.207.131.113 mlvbdc.live.qcloud.com
- 54.169.48.105 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
- 13.228.213.111 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
- 17.173.66.227 p45-buy.itunes.apple.com
- 17.173.66.227 CNAME, p45-buy.itunes-apple.com.akadns.net.
- 17.252.233.246 api-glb-sin.smoot.apple.com
- 17.248.160.113 p53-keyvalueservice.icloud.com
- 17.248.156.75 p53-keyvalueservice.icloud.com
- 17.248.159.244 p53-keyvalueservice.icloud.com
- 17.248.156.8 p53-keyvalueservice.icloud.com
- 17.248.160.16 p53-keyvalueservice.icloud.com
- 17.248.159.44 p53-keyvalueservice.icloud.com
- 17.248.152.232 p53-keyvalueservice.icloud.com
- 17.248.159.75 p53-keyvalueservice.icloud.com
- 17.248.160.113 CNAME, keyvalueservice.fe.apple-dns.net.
- 17.248.156.75 CNAME, keyvalueservice.fe.apple-dns.net.
- 17.248.159.244 CNAME, keyvalueservice.fe.apple-dns.net.
- 17.248.156.8 CNAME, keyvalueservice.fe.apple-dns.net.
- 17.248.160.16 CNAME, keyvalueservice.fe.apple-dns.net.
- 17.248.159.44 CNAME, keyvalueservice.fe.apple-dns.net.
- 17.248.152.232 CNAME, keyvalueservice.fe.apple-dns.net.
- 17.248.159.75 CNAME, keyvalueservice.fe.apple-dns.net.
- 140.207.122.141 c.tdm.qq.com
- 210.22.247.194 c.tdm.qq.com
- 58.247.215.105 c.tdm.qq.com
- 172.217.194.95 device-provisioning.googleapis.com
- 23.74.222.80 www.apple.com
- 23.74.222.80 CNAME, www.apple.com.edgekey.net.
- 23.74.222.80 CNAME, www.apple.com.edgekey.net.globalredir.akadns.net.
- 23.74.222.80 CNAME, e6858.dsce9.akamaiedge.net.
- 23.76.76.94 www.icloud.com
- 23.76.76.94 CNAME, www-cdn.icloud.com.akadns.net.
- 23.76.76.94 CNAME, www.icloud.com.edgekey.net.
- 23.76.76.94 CNAME, e4478.a.akamaiedge.net.
- 17.248.185.78 metrics.icloud.com
- 17.248.131.201 metrics.icloud.com
- 17.248.131.232 metrics.icloud.com
- 17.248.131.145 metrics.icloud.com
- 17.248.131.180 metrics.icloud.com
- 17.248.131.10 metrics.icloud.com
- 17.248.185.83 metrics.icloud.com
- 17.248.131.178 metrics.icloud.com
- 17.248.185.78 CNAME, me.apple-dns.net.
- 17.248.131.201 CNAME, me.apple-dns.net.
- 17.248.131.232 CNAME, me.apple-dns.net.
- 17.248.131.145 CNAME, me.apple-dns.net.
- 17.248.131.180 CNAME, me.apple-dns.net.
- 17.248.131.10 CNAME, me.apple-dns.net.
- 17.248.185.83 CNAME, me.apple-dns.net.
- 17.248.131.178 CNAME, me.apple-dns.net.
+27.71.113.64 play.itunes.apple.com
+27.71.113.33 play.itunes.apple.com
+17.56.48.13 notes-analytics-events.apple.com
+23.74.221.140 configuration.apple.com
+17.248.154.113 gateway.icloud.com
+17.248.154.73 gateway.icloud.com
+17.248.154.179 gateway.icloud.com
+17.248.154.149 gateway.icloud.com
+17.248.154.76 gateway.icloud.com
+17.248.154.101 gateway.icloud.com
+17.248.154.175 gateway.icloud.com
+17.248.154.81 gateway.icloud.com
+203.205.254.159 pingma.qq.com
+74.125.24.100 app-measurement.com
+74.125.24.138 app-measurement.com
+74.125.24.102 app-measurement.com
+74.125.24.101 app-measurement.com
+74.125.24.139 app-measurement.com
+74.125.24.113 app-measurement.com
+157.240.13.14 graph.facebook.com
+74.125.200.95 play.googleapis.com
+169.46.82.164 logs.papertrailapp.com
+169.46.82.162 logs.papertrailapp.com
+169.46.82.163 logs.papertrailapp.com
+169.46.82.165 logs.papertrailapp.com
+74.125.24.188 mtalk.google.com
+52.49.159.43 launches.appsflyer.com
+34.251.5.171 launches.appsflyer.com
+52.17.222.102 launches.appsflyer.com
+34.242.178.76 launches.appsflyer.com
+52.211.199.35 launches.appsflyer.com
+52.211.152.255 launches.appsflyer.com
+52.51.241.103 launches.appsflyer.com
+54.77.12.108 launches.appsflyer.com
+74.125.24.95 iid.googleapis.com
+35.241.26.53 config.uca.cloud.unity3d.com
+27.71.113.50 intldlgs.qq.com
+27.71.113.91 intldlgs.qq.com
+27.71.113.56 intldlgs.qq.com
+27.71.113.64 intldlgs.qq.com
+203.205.219.228 idcconfig.gcloud.qq.com
+203.205.253.140 bugly.qq.com
+203.205.253.183 bugly.qq.com
+119.28.121.76 cloud2.gsdk.proximabeta.com
+203.205.235.53 ios.bugly.qq.com
+35.241.52.229 cdp.cloud.unity3d.com
+203.205.235.218 oth.eve.mdt.qq.com
+203.205.239.248  oth.eve.mdt.qq.com
+45.119.241.238 download.2.1945015797.kgvn.gcloud.garena.vn
+183.36.108.26 oth.str.mdt.qq.com
+183.36.108.32 oth.str.mdt.qq.com
+183.57.48.33 oth.str.mdt.qq.com
+183.36.108.31 oth.str.mdt.qq.com
+17.253.83.203 pancake.apple.com
+17.253.83.207 pancake.apple.com
+45.119.241.238 puffer.6.1945015797.kgvn.gcloud.garena.vn
+45.119.241.210 ng-vn-notice.gameitop.com 103.247.206.23 connect.garenanow.com
+103.247.207.15 100054.connect.garena.com
+45.119.241.238 dir.4.1945015797.kgvn.gcloud.garena.vn
+52.48.180.73 inapps.appsflyer.com
+52.211.235.103 inapps.appsflyer.com
+54.171.175.54 inapps.appsflyer.com
+54.194.30.67 inapps.appsflyer.com
+52.17.134.54 inapps.appsflyer.com
+52.214.170.42 inapps.appsflyer.com
+52.30.251.27 inapps.appsflyer.com
+52.19.80.31 inapps.appsflyer.com
+45.119.241.205 ng-vn-sdkapi.gameitop.com
+172.217.194.139 apis.google.com
+172.217.194.101 apis.google.com
+172.217.194.102 apis.google.com
+172.217.194.100 apis.google.com
+172.217.194.138 apis.google.com
+172.217.194.113 apis.google.com
+74.125.200.95 safebrowsing.googleapis.com
+23.74.221.140 e673.dsce9.akamaiedge.net
+203.205.219.228 idcconfig.gcloud.qq.com
+13.228.241.209 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
+3.1.180.135 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
+45.119.241.222 kg.midas.garena.vn
+23.74.221.140 itunes.apple.com
+150.109.29.150 asia.csoversea.mbgame.anticheatexpert.com
+119.28.121.174 asia.csoversea.mbgame.anticheatexpert.com
+150.109.0.45 asia.csoversea.mbgame.anticheatexpert.com
+150.109.0.38 asia.csoversea.mbgame.anticheatexpert.com
+103.239.120.10 cdn.vn.garenanow.com
+103.239.120.8 cdn.vn.garenanow.com
+103.239.120.9 cdn.vn.garenanow.com
+103.239.120.4 cdn.vn.garenanow.com
+103.239.120.7 cdn.vn.garenanow.com
+124.156.189.81 control.mna.qq.com
+203.205.254.104 speed.ino.qq.com
+157.240.218.15 platform-lookaside.fbsbx.com
+157.240.218.15 CNAME, scontent.xx.fbcdn.net.
+45.119.241.147 tvnotice.kg.garena.vn
+123.30.147.169 22983.liveplay.myqcloud.com
+123.30.147.176 22983.liveplay.myqcloud.com
+42.117.214.81 22983.liveplay.myqcloud.com
+42.117.214.93 22983.liveplay.myqcloud.com
+42.117.214.34 22983.liveplay.myqcloud.com
+42.117.214.96 22983.liveplay.myqcloud.com
+42.117.214.150 22983.liveplay.myqcloud.com
+42.117.214.106 22983.liveplay.myqcloud.com
+123.30.147.167 22983.liveplay.myqcloud.com
+42.117.214.104 22983.liveplay.myqcloud.com
+123.30.147.159 22983.liveplay.myqcloud.com
+42.117.214.151 22983.liveplay.myqcloud.com
+42.117.214.39 22983.liveplay.myqcloud.com
+123.30.147.181 22983.liveplay.myqcloud.com
+42.117.214.48 22983.liveplay.myqcloud.com
+123.207.131.113 mlvbdc.live.qcloud.com
+54.169.48.105 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+13.228.213.111 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+17.173.66.227 p45-buy.itunes.apple.com
+17.252.233.246 api-glb-sin.smoot.apple.com
+17.248.160.113 p53-keyvalueservice.icloud.com
+17.248.156.75 p53-keyvalueservice.icloud.com
+17.248.159.244 p53-keyvalueservice.icloud.com
+17.248.156.8 p53-keyvalueservice.icloud.com
+17.248.160.16 p53-keyvalueservice.icloud.com
+17.248.159.44 p53-keyvalueservice.icloud.com
+17.248.152.232 p53-keyvalueservice.icloud.com
+17.248.159.75 p53-keyvalueservice.icloud.com
+140.207.122.141 c.tdm.qq.com
+210.22.247.194 c.tdm.qq.com
+58.247.215.105 c.tdm.qq.com
+172.217.194.95 device-provisioning.googleapis.com
+23.74.222.80 www.apple.com
+23.76.76.94 www.icloud.com
+17.248.185.78 metrics.icloud.com
+17.248.131.201 metrics.icloud.com
+17.248.131.232 metrics.icloud.com
+17.248.131.145 metrics.icloud.com
+17.248.131.180 metrics.icloud.com
+17.248.131.10 metrics.icloud.com
+17.248.185.83 metrics.icloud.com
+17.248.131.178 metrics.icloud.com
