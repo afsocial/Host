@@ -1,0 +1,206 @@
+play.itunes.apple.com
+CNAME, play-cdn.itunes-apple.com.akadns.net.
+CNAME, play.itunes.apple.com.edgesuite.net.
+CNAME, a1806.dscb.akamai.net.
+A, 27.71.113.24
+A, 27.71.113.49
+A, 27.71.113.64
+A, 27.71.113.33
+notes-analytics-events.apple.com
+CNAME, notes-analytics-events.news.apple-dns.net.
+A, 17.56.48.13
+configuration.apple.com
+CNAME, configuration.apple.com.akadns.net.
+CNAME, configuration.apple.com.edgekey.net.
+CNAME, e673.dsce9.akamaiedge.net.
+A, 23.74.221.140
+gateway.icloud.com
+CNAME, gateway.fe.apple-dns.net.
+A, 17.248.154.113
+A, 17.248.154.73
+A, 17.248.154.179
+A, 17.248.154.149
+A, 17.248.154.76
+A, 17.248.154.101
+A, 17.248.154.175
+A, 17.248.154.81
+pingma.qq.com
+A, 203.205.254.159
+app-measurement.com
+A, 74.125.24.100
+A, 74.125.24.138
+A, 74.125.24.102
+A, 74.125.24.101
+A, 74.125.24.139
+A, 74.125.24.113
+graph.facebook.com
+CNAME, api.facebook.com.
+CNAME, star.c10r.facebook.com.
+A, 157.240.13.14
+play.googleapis.com
+A, 74.125.200.95
+logs.papertrailapp.com
+A, 169.46.82.164
+A, 169.46.82.162
+A, 169.46.82.163
+A, 169.46.82.165
+mtalk.google.com
+CNAME, mobile-gtalk.l.google.com.
+A, 74.125.24.188
+launches.appsflyer.com
+CNAME, conversions.appsflyer.com.
+A, 52.49.159.43
+A, 34.251.5.171
+A, 52.17.222.102
+A, 34.242.178.76
+A, 52.211.199.35
+A, 52.211.152.255
+A, 52.51.241.103
+A, 54.77.12.108
+iid.googleapis.com
+A, 74.125.24.95
+config.uca.cloud.unity3d.com
+CNAME, remote-config-proxy-prd.uca.cloud.unity3d.com.
+A, 35.241.26.53
+intldlgs.qq.com
+CNAME, intldlgs.qq.com.tegsea.tc.qq.com.
+CNAME, intldlgs.qq.com.cdn.ettdnsv.com.
+CNAME, intldlgs.qq.com.edgesuite.net.
+CNAME, a1807.b.akamai.net.
+A, 27.71.113.50
+A, 27.71.113.91
+A, 27.71.113.56
+idcconfig.gcloud.qq.com
+CNAME, idcconfig.gcloud.wechatos.net.
+A, 203.205.219.228
+bugly.qq.com
+CNAME, sparta.qb.mig.tencent-cloud.net.
+A, 203.205.253.140
+A, 203.205.253.183
+cloud2.gsdk.proximabeta.com
+A, 119.28.121.76
+ios.bugly.qq.com
+A, 203.205.235.53
+cdp.cloud.unity3d.com
+CNAME, prd-lender.cdp.internal.unity3d.com.
+CNAME, thind-prd-knob.data.ie.unity3d.com.
+CNAME, thind-gke-usc.prd.data.corp.unity3d.com.
+A, 35.241.52.229
+oth.eve.mdt.qq.com
+A, 203.205.235.218
+A, 203.205.239.248
+download.2.1945015797.kgvn.gcloud.garena.vn
+A, 45.119.241.238
+oth.str.mdt.qq.com
+CNAME, game.str.mdt.qq.com.
+A, 183.36.108.26
+A, 183.36.108.32
+A, 183.57.48.33
+A, 183.36.108.31
+pancake.apple.com
+CNAME, pancake.cdn-apple.com.akadns.net.
+CNAME, pancake.g.aaplimg.com.
+A, 17.253.83.203
+A, 17.253.83.207
+puffer.6.1945015797.kgvn.gcloud.garena.vn
+A, 45.119.241.238
+ng-vn-notice.gameitop.com
+A, 45.119.241.210
+connect.garenanow.com
+A, 103.247.206.23
+100054.connect.garena.com
+CNAME, kg.connect.garena.com.
+A, 103.247.207.15
+dir.4.1945015797.kgvn.gcloud.garena.vn
+A, 45.119.241.238
+inapps.appsflyer.com
+A, 52.48.180.73
+A, 52.211.235.103
+A, 54.171.175.54
+A, 54.194.30.67
+A, 52.17.134.54
+A, 52.214.170.42
+A, 52.30.251.27
+A, 52.19.80.31
+ng-vn-sdkapi.gameitop.com
+A, 45.119.241.205
+apis.google.com
+CNAME, plus.l.google.com.
+A, 172.217.194.139
+A, 172.217.194.101
+A, 172.217.194.102
+A, 172.217.194.100
+A, 172.217.194.138
+A, 172.217.194.113
+safebrowsing.googleapis.com
+A, 74.125.200.95
+e673.dsce9.akamaiedge.net
+A, 23.74.221.140
+idcconfig.gcloud.qq.com
+CNAME, idcconfig.gcloud.wechatos.net.
+A, 203.205.219.228
+iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
+A, 13.228.241.209
+A, 3.1.180.135
+kg.midas.garena.vn
+A, 45.119.241.222
+itunes.apple.com
+CNAME, itunes-cdn.itunes-apple.com.akadns.net.
+CNAME, itunes.apple.com.edgekey.net.
+CNAME, e673.dsce9.akamaiedge.net.
+A, 23.74.221.140
+asia.csoversea.mbgame.anticheatexpert.com
+A, 150.109.29.150
+A, 119.28.121.174
+A, 150.109.0.45
+A, 150.109.0.38
+cdn.vn.garenanow.com
+CNAME, temp.cdn.vn.garenanow.com.
+A, 103.239.120.10
+A, 103.239.120.8
+A, 103.239.120.9
+A, 103.239.120.4
+A, 103.239.120.7
+control.mna.qq.com
+A, 124.156.189.81
+speed.ino.qq.com
+A, 203.205.254.104
+platform-lookaside.fbsbx.com
+CNAME, scontent.xx.fbcdn.net.
+A, 157.240.218.15
+tvnotice.kg.garena.vn
+A, 45.119.241.147
+platform-lookaside.fbsbx.com
+CNAME, scontent.xx.fbcdn.net.
+A, 157.240.218.15
+tvnotice.kg.garena.vn
+A, 45.119.241.147
+22983.liveplay.myqcloud.com
+CNAME, 22983.switch.hyzhibo.cdntip.com.
+CNAME, 22983.switch.hyzhibo.cdntip.com.huodonghylivecdn.sched.ovscdns.net.
+A, 123.30.147.169
+A, 123.30.147.176
+A, 42.117.214.81
+A, 42.117.214.93
+A, 42.117.214.34
+A, 42.117.214.96
+A, 42.117.214.150
+A, 42.117.214.106
+A, 123.30.147.167
+A, 42.117.214.104
+A, 123.30.147.159
+A, 42.117.214.151
+A, 42.117.214.39
+A, 123.30.147.181
+A, 42.117.214.48
+mlvbdc.live.qcloud.com
+A, 123.207.131.113
+intldlgs.qq.com
+CNAME, intldlgs.qq.com.tegsea.tc.qq.com.
+CNAME, intldlgs.qq.com.cdn.ettdnsv.com.
+CNAME, intldlgs.qq.com.edgesuite.net.
+CNAME, a1807.b.akamai.net.
+A, 27.71.113.91
+A, 27.71.113.56
+A, 27.71.113.50
+A, 27.71.113.64
