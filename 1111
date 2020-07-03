@@ -238,3 +238,13 @@ CNAME, www-cdn.icloud.com.akadns.net.
 CNAME, www.icloud.com.edgekey.net.
 CNAME, e4478.a.akamaiedge.net.
 A, 23.76.76.94
+metrics.icloud.com
+CNAME, me.apple-dns.net.
+A, 17.248.185.78
+A, 17.248.131.201
+A, 17.248.131.232
+A, 17.248.131.145
+A, 17.248.131.180
+A, 17.248.131.10
+A, 17.248.185.83
+A, 17.248.131.178
