@@ -204,3 +204,28 @@ A, 27.71.113.91
 A, 27.71.113.56
 A, 27.71.113.50
 A, 27.71.113.64
+serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
+A, 54.169.48.105
+A, 13.228.213.111
+p45-buy.itunes.apple.com
+CNAME, p45-buy.itunes-apple.com.akadns.net.
+A, 17.173.66.227
+api-glb-sin.smoot.apple.com
+A, 17.252.233.246
+p53-keyvalueservice.icloud.com
+CNAME, keyvalueservice.fe.apple-dns.net.
+A, 17.248.160.113
+A, 17.248.156.75
+A, 17.248.159.244
+A, 17.248.156.8
+A, 17.248.160.16
+A, 17.248.159.44
+A, 17.248.152.232
+A, 17.248.159.75
+c.tdm.qq.com
+A, 140.207.122.141
+A, 210.22.247.194
+A, 58.247.215.105
+device-provisioning.googleapis.com
+A, 172.217.194.95
+
