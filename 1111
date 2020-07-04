@@ -236,3 +236,13 @@
 0.0.0.0 zingnews.vn
 118.102.1.119 n.zing.vn
 0.0.0.0 n.zing.vn
+17.252.194.22 gsp85-ssl.ls.apple.com
+0.0.0.0 gsp85-ssl.ls.apple.com
+143.92.121.132 testconnect.garenanow.com
+0.0.0.0 testconnect.garenanow.com
+CNAME, ocsp.int-x3.letsencrypt.org.edgesuite.net.
+CNAME, a771.dscq.akamai.net.
+23.218.94.65 ocsp.int-x3.letsencrypt.org
+23.218.94.122 ocsp.int-x3.letsencrypt.org
+0.0.0.0 ocsp.int-x3.letsencrypt.org
+
