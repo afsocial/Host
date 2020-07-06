@@ -1,3 +1,19 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1 localhost
+255.255.255.255 broadcasthost
+::1             localhost
+127.0.0.1 mesu.apple.com
+127.0.0.1 ocsp.apple.com
+127.0.0.1 world-gen.g.applimg.com
+127.0.0.1 app.ldnld.apple.com
+127.0.0.1 gdmf.apple.com
+127.0.0.1 ppg.app.com
+#---------------------------------
 27.71.113.24 play.itunes.apple.com
 27.71.113.49 play.itunes.apple.com
 27.71.113.64 play.itunes.apple.com
