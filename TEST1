@@ -151,6 +151,7 @@
 157.240.218.15 platform-lookaside.fbsbx.com
 0.0.0.0 platform-lookaside.fbsbx.com
 45.119.241.147 tvnotice.kg.garena.vn
+0.0.0.0 tvnotice.kg.garena.vn
 123.30.147.169 22983.liveplay.myqcloud.com
 123.30.147.176 22983.liveplay.myqcloud.com
 42.117.214.81 22983.liveplay.myqcloud.com
@@ -258,8 +259,6 @@
 0.0.0.0 gsp85-ssl.ls.apple.com
 143.92.121.132 testconnect.garenanow.com
 0.0.0.0 testconnect.garenanow.com
-CNAME, ocsp.int-x3.letsencrypt.org.edgesuite.net.
-CNAME, a771.dscq.akamai.net.
 23.218.94.65 ocsp.int-x3.letsencrypt.org
 23.218.94.122 ocsp.int-x3.letsencrypt.org
 0.0.0.0 ocsp.int-x3.letsencrypt.org
@@ -269,7 +268,6 @@ CNAME, a771.dscq.akamai.net.
 137.59.117.102 lienquan.garena.vn
 137.59.117.104 lienquan.garena.vn
 0.0.0.0 lienquan.garena.vn
-CNAME, setup.fe.apple-dns.net.
 17.248.185.69 setup.icloud.com
 17.248.131.198 setup.icloud.com
 17.248.185.112 setup.icloud.com
@@ -344,8 +342,6 @@ CNAME, setup.fe.apple-dns.net.
 122.11.128.167 f.gxx.garenanow.com
 122.11.128.166 f.gxx.garenanow.com
 0.0.0.0 f.gxx.garenanow.com
-CNAME, 24.courier-push-apple.com.akadns.net.
-CNAME, apac-asia-courier-4.push-apple.com.akadns.net.
 17.57.145.6 24-courier.push.apple.com
 17.57.145.7 24-courier.push.apple.com
 17.57.145.9 24-courier.push.apple.com
