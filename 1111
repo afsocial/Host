@@ -13,6 +13,8 @@
 127.0.0.1 app.ldnld.apple.com
 127.0.0.1 gdmf.apple.com
 127.0.0.1 ppg.app.com
+125.235.4.59 iPhone-cua-An
+0.0.0.0 iPhone-cua-An
 #---------------------------------
 27.71.113.24 play.itunes.apple.com
 27.71.113.49 play.itunes.apple.com
@@ -359,8 +361,6 @@ CNAME, apac-asia-courier-4.push-apple.com.akadns.net.
 17.172.224.47 apple.com
 17.142.160.59 apple.com
 0.0.0.0 apple.com
-125.235.4.59 iPhone-cua-An
-0.0.0.0 iPhone-cua-An
 23.46.16.239 dlmobilegarena-a.akamaihd.net
 23.46.16.214 dlmobilegarena-a.akamaihd.net
 23.46.16.223 dlmobilegarena-a.akamaihd.net
