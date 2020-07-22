@@ -86,8 +86,6 @@ ppg.app.com
 0.0.0.0 apis.google.com
 74.125.200.95 safebrowsing.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
-23.74.221.140 e673.dsce9.akamaiedge.net
-0.0.0.0 e673.dsce9.akamaiedge.net
 13.228.241.209 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
 3.1.180.135 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
 0.0.0.0 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
