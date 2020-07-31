@@ -21,8 +21,6 @@ ppg.app.com
 169.46.82.163 logs.papertrailapp.com
 169.46.82.165 logs.papertrailapp.com
 0.0.0.0 logs.papertrailapp.com
-74.125.24.188 mtalk.google.com
-0.0.0.0 mtalk.google.com
 52.49.159.43 launches.appsflyer.com
 34.251.5.171 launches.appsflyer.com
 52.17.222.102 launches.appsflyer.com
@@ -62,9 +60,7 @@ ppg.app.com
 0.0.0.0 oth.str.mdt.qq.com
 45.119.241.238 puffer.6.1945015797.kgvn.gcloud.garena.vn
 0.0.0.0 puffer.6.1945015797.kgvn.gcloud.garena.vn
-45.119.241.210 ng-vn-notice.gameitop.com
 103.247.206.23 connect.garenanow.com
-0.0.0.0 ng-vn-notice.gameitop.com 
 103.247.206.23 connect.garenanow.com
 45.119.241.238 dir.4.1945015797.kgvn.gcloud.garena.vn
 0.0.0.0 dir.4.1945015797.kgvn.gcloud.garena.vn
@@ -142,35 +138,36 @@ lb.ap-southeast-1.amazonaws.com
 122.11.128.167 f.gxx.garenanow.com
 122.11.128.166 f.gxx.garenanow.com
 0.0.0.0 f.gxx.garenanow.com
-##########################
-||ng-vn-notice.gameitop.com^$important
+||speed.ino.qq.com^$important
+||control.mna.qq.com^$important
+||asia.csoversea.mbgame.anticheatexpert.com^$important
 ||puffer.6.1945015797.kgvn.gcloud.garena.vn^$important
-||oth.str.mdt.qq.com^$important
-||oth.eve.mdt.qq.com^$important
 ||ios.bugly.qq.com^$important
-||cloud2.gsdk.proximabeta.com^$important
-||bugly.qq.com^$important
-||idcconfig.gcloud.qq.com^$important
-||cdp.cloud.unity3d.com^$important
 ||intldlgs.qq.com^$important
 ||logs.papertrailapp.com^$important
 ||app-measurement.com^$important
+||c.tdm.qq.com^$important
 ||pingma.qq.com^$important
-||play.googleapis.com^$important
-||launches.appsflyer.com^$important
-||testconnect.garenanow.com^$important
-||config.uca.cloud.unity3d.com^$important
+||kg.midas.garena.vn^$important
+||tvnotice.kg.garena.vn^$important
+||lienquan.garena.vn^$important
+||serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com^$important
+||cdn.vn.garenanow.com^$important
+||dir.4.1945015797.kgvn.gcloud.garena.vn^$important
+||oth.str.mdt.qq.com^$important
+||oth.eve.mdt.qq.com^$important
+||bugly.qq.com^$important
+||idcconfig.gcloud.qq.com^$important
+||connect.garenanow.com^$important
+||cloud2.gsdk.proximabeta.com^$important
+||cdp.cloud.unity3d.com^$important
 ||inapps.appsflyer.com^$important
+||cdp.cloud.unity3d.com^$important
+||config.uca.cloud.unity3d.com^$important
+||launches.appsflyer.com^$important
+||play.googleapis.com^$important
 ||iid.googleapis.com^$important
 ||mtalk.google.com^$important
-||speed.ino.qq.com^$important
-||serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com^$important
-||control.mna.qq.com^$important
-||cdn.vn.garenanow.com^$important
-||asia.csoversea.mbgame.anticheatexpert.com^$important
-||kg.midas.garena.vn^$important
-||dir.4.1945015797.kgvn.gcloud.garena.vn^$important
-||c.tdm.qq.com^$important
-||tvnotice.kg.garena.vn^$important
-||platform-lookaside.fbsbx.com^$important
 ||f.gxx.garenanow.com^$important
+||cdngarenanow-a.akamaihd.net^$important
+||vn.voice.gcloudcs.com^$important
