@@ -1,5 +1,4 @@
 logs.papertrailapp.com
-query.ess.apple.com
 kg.midas.garena.vn
 cs.mainconn.gamesafe.qq.com
 mesu.apple.com
@@ -19,19 +18,11 @@ platform-lookaside.fbsbx.com
 ios-dc.y5en.com
 download.2.1945015797.kgvn.gcloud.garena.vn
 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
-i.repo.co.kr
 c.tdm.qq.com
-test-c2c.coolkit.cc
-games.wifichua.xyz
 cdngarenanow-a.akamaihd.net
-cdn.ampproject.org
 cs.mainconn.gamesafe.qq.com
 gop.captcha.garena.com
 prd-lender.cdp.internal.unity3d.com
-ng-vn-sdkapi.gameitop.com
-100054.connect.garena.com
-connect.garenanow.com
-ng-vn-notice.gameitop.com
 oth.str.mdt.qq.com
 cdp.cloud.unity3d.com
 config.uca.cloud.unity3d.com
@@ -61,10 +52,6 @@ f.gxx.garenanow.com
 cs.mainconn.gamesafe.qq.com
 gop.captcha.garena.com
 prd-lender.cdp.internal.unity3d.com
-ng-vn-sdkapi.gameitop.com
-100054.connect.garena.com
-connect.garenanow.com
-ng-vn-notice.gameitop.com
 oth.str.mdt.qq.com
 cdp.cloud.unity3d.com
 config.uca.cloud.unity3d.com
@@ -94,13 +81,9 @@ kg.midas.garena.vn
 f.gxx.garenanow.com
 appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com
 ocsp.apple.com
-developerservices2.apple.com
 cs.mainconn.gamesafe.qq.com 
 gop.captcha.garena.com
 prd-lender.cdp.internal.unity3d.com
-ng-vn-sdkapi.gameitop.com
-connect.garenanow.com 
-ng-vn-notice.gameitop.com
 oth.str.mdt.qq.com 
 cdp.cloud.unity3d.com 
 config.uca.cloud.unity3d.com
@@ -111,8 +94,10 @@ download.2.1945015797.kgvn.gcloud.garena.vn
 ios.bugly.qq.com
 cloud2.gsdk.proximabeta.com
 idcconfig.gcloud.qq.com
-bugly.qq.com dlied1.qq.com
-mtalk.google.com c.tdm.qq.com
+bugly.qq.com 
+dlied1.qq.com
+mtalk.google.com 
+c.tdm.qq.com
 iqia6two1k.execute-api.ap-southeast-1.amazonaws.com
 oth.eve.mdt.qq.com
 logs.papertrailapp.com
@@ -122,11 +107,11 @@ control.mna.qq.com
 serviceproxy-elb-5fc410e03b31f811.elb.ap-southeast-1.amazonaws.com
 cdn.vn.garenanow.com
 appsflyer-web-14-1584675694.eu-west-1.elb.amazonaws.com
- kg.midas.garena.vn
+kg.midas.garena.vn
 dlmobilegarena-a.akamaihd.net
 cdngarenanow-a.akamaihd.net
 f.gxx.garenanow.com
- speed.kg.garena.vn 
+speed.kg.garena.vn 
 gameforum.garena.id
 dlied5.tcdn.qq.com
 dlied5.tc.qq.com
